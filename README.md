@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaik Suraz</h1>
+<h1 align="center" color:"red">Hi 👋, I'm Shaik Suraz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraz95&label=Profile%20views&color=ff0000&style=flat" alt="suraz95" /> </p>
