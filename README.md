@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#9c27b0;">Hi 👋, I'm Shaik Suraz</h1>
-<h3 align="center" style="color:#9c27b0;">A passionate frontend developer from India</h3>
+<h3 align="center" style="color:#9c27b0;">A passionate Web Developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=suraz95&label=Profile%20views&color=9c27b0&style=flat" alt="suraz95" /> 
