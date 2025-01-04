@@ -1,8 +1,9 @@
 
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/23/c3/a3/23c3a315d823d0e1e4a1ca8b6e97ad52.jpg" alt="Header" style="height: 60%; border-radius: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/23/c3/a3/23c3a315d823d0e1e4a1ca8b6e97ad52.jpg" alt="Header" width="50%" />
+</p>
+
 
 
 <div align="center">
