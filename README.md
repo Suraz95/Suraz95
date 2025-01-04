@@ -1,6 +1,9 @@
 
 
-![Header](https://motionbgs.com/i/c/960x540/media/4418/sung-jin-woo-darkness.jpg)
+<div align="center">
+  <img src="https://i.pinimg.com/736x/23/c3/a3/23c3a315d823d0e1e4a1ca8b6e97ad52.jpg" alt="Header" style="height: 60%; border-radius: 10px;"/>
+</div>
+
 
 <div align="center">
   <h1 style="font-family: 'Bebas Neue', sans-serif; color: #9c27b0;">👋 Hi, I’m Sung Jin-Woo (Just kidding, I’m Shaik Suraz!)</h1>
@@ -21,9 +24,7 @@
 
 ## **⚔️ Skills I Wield**
 
-<div align="center">
-   <img src="https://drive.usercontent.google.com/download?id=1axlVtDl5OVUGM7dfs090PpnRd4Kq75yr&authuser=0" alt="Skills Divider" width="80%" style="border-radius: 10px;"/>
-</div>
+
 
 ### **Languages**
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
@@ -42,10 +43,7 @@
 
 ---
 
-## **📜 Solo Leveling Wisdom**
-<div align="center">
-  <img src="https://motionbgs.com/i/c/960x540/media/4643/shadow-monarch-jinwoo.jpg" alt="Shadow Army Background" width="100%" />
-</div>
+
 
 ### **...Arise.**
 
@@ -63,7 +61,7 @@
 ---
 
 <div align="center">
-  <img src="https://staticg.sportskeeda.com/editor/2024/03/08af2-17105484670526-1920.jpg?w=640" alt="Shadow Monarch Power" width="80%" style="border-radius: 10px; margin-top: 20px;" />
+  <img src="https://motionbgs.com/i/c/960x540/media/4643/shadow-monarch-jinwoo.jpg" alt="Shadow Monarch Power" width="80%" style="border-radius: 10px; margin-top: 20px;" />
   <h3 style="font-family: 'Bebas Neue', sans-serif; color: #9c27b0;">"Embrace the Shadows, Rule the Code"</h3>
 </div>
 
